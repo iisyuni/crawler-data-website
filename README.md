@@ -23,7 +23,7 @@ Aplikasi yang dibutuhkan yaitu aplikasi python, pastikan sudah terinstall pada l
 
 Selanjutnya yang perlu dilakukan yaitu sebagai berikut :
 
-1. Pada "Local Disk (C:)" carilah folder "python34" kemudian double klik folder tersebut.
+1. Pada "Local Disk (C:)" carilah folder "Python34" kemudian double klik folder tersebut.
 
 2. Selanjutnya  cari folder "Scripts" kemudian double klik folder tersebut.
 
