@@ -17,7 +17,7 @@ mengambil data teks dari sebuah website
 
 
 
-Web Crawler digunakan untuk mengambil data berupa teks pada sebuah website.
+Web Crawler digunakan untuk mengambil data berupa teks, audio, foto bahkan video pada sebuah website.
 
 Aplikasi yang dibutuhkan yaitu aplikasi python, pastikan sudah terinstall pada laptop.
 
