@@ -27,15 +27,9 @@ Selanjutnya yang perlu dilakukan yaitu sebagai berikut :
 
 2. Selanjutnya  cari folder "Scripts" kemudian double klik folder tersebut.
 
-3. ketikkan cmd seperti gambar berikut ini
+3. ketikkan "cmd" pada AddressBar folder tersebut.   
 
-   ![cmd2](D:\Doc_Kuliah\SEMESTER_6\cmd2.jpg)
-
-   
-
-4. kemudian enter maka akan muncul tampilan cmd seperti gambar berikut ini![tampil](D:\Doc_Kuliah\SEMESTER_6\tampil.jpg)
-
-
+4. kemudian enter maka akan muncul tampilan jendela cmd. Dengan tulisan seperti "C:\Python34\Scripts>"
 
 5. Pastikan laptop terhubung dengan koneksi internet, kemudian ketikkan `pip install BeautifulSoap4` lalu enter tunggu hingga proses instalasi selesai
 
